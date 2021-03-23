@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Dpakkk/Dpakkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Bikash's github stats](https://github-readme-stats.vercel.app/api?username=Dpakkk)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=Dpakkk&color=green)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working as Data Scientist @ [**reduct Nepal**](https://www.humanassisted.ai/).
+- 🌱 I’m currently learning Machine Learning and Deep Learning.
+- 💬 Ask me about R , Data Science , Machine Learning and Data Visualization.
+- 👯 I’m looking to collaborate on Data Science, Machine Learning.
+- 📫 How to reach me: [twitter](https://twitter.com/Dpakkk), [website](https://bikashpokharel.com.np/), [linkedin](https://www.linkedin.com/in/bikashpo/)
+
+
+## **Language and Tools**
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dpakkk&theme=graywhite)
