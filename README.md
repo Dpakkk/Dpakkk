@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Dpakkk&color=green)
 
-- 🔭 I’m currently working as Data Scientist @ [**reduct Nepal**](https://www.humanassisted.ai/).
+- 🔭 I’m currently studying master's in data science in @[**University of New Haven**](https://www.newhaven.edu).
 - 🌱 I’m currently learning Machine Learning and Deep Learning.
 - 💬 Ask me about R , Data Science , Machine Learning and Data Visualization.
 - 👯 I’m looking to collaborate on Data Science, Machine Learning.
