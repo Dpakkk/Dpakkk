@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Machine Learning and Deep Learning.
 - 💬 Ask me about R , Data Science , Machine Learning and Data Visualization.
 - 👯 I’m looking to collaborate on Data Science, Machine Learning.
-- 📫 How to reach me: [website](https://bikashpokharel.com.np/), [linkedin](https://www.linkedin.com/in/bikpo/)
+- 📫 How to reach me:[linkedin](https://www.linkedin.com/in/bikpo/)
 
 
 ## **Language and Tools**
