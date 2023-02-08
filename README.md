@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Bikash's github stats](https://github-readme-stats.vercel.app/api?username=Dpakkk)](https://github.com/anuraghazra/github-readme-stats)
-
 ![](https://komarev.com/ghpvc/?username=Dpakkk&color=green)
 
 - 🔭 I’m currently studying master's in data science in @[**University of New Haven**](https://www.newhaven.edu).
