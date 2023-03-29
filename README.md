@@ -5,7 +5,6 @@
 - 🔭 Graduate Data Science Student | Machine Learning Teaching Assistant
 - 🌱 3+ Years of working experience in a Data Science domain
 - 💬 Ask me about Statistics, Regression, Classification and Business KPI's
-- 👯 I’m looking to collaborate on Data Science projects
 - 📫 Reach me at [linkedin](https://www.linkedin.com/in/bikpo/)
 
 
