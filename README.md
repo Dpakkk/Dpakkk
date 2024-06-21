@@ -2,9 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=Dpakkk&color=green)
 
-- 🔭 Graduate Data Science Student | Machine Learning Teaching Assistant
+- 🔭 Fundraising Analyst 
 - 🌱 3+ Years of working experience in a Data Science domain
-- 💬 Ask me about Statistics, Regression, Classification and Business KPI's
+- 💬 Ask me about Statistics, Regression, Classification and Fundraiaing KPIs
 - 📫 Reach me at [linkedin](https://www.linkedin.com/in/bikpo/)
 
 
