@@ -2,10 +2,11 @@
 
 ![](https://komarev.com/ghpvc/?username=Dpakkk&color=green)
 
-- 🔭 Fundraising Analyst; SQL, R & Pyhton
-- 🌱 3+ Years of working experience in a Data Science domain
-- 💬 Ask me about Statistics, Regression, Classification and Fundraiaing KPIs
-- 📫 Reach me at [linkedin](https://www.linkedin.com/in/bikpo/)
+- Marketing Data Analyst
+- Programming: SQL, Python and R, Java Script
+- Additional Tools: Power BI, AWS, Looker, Figma, Premier Pro
+- Ask me about Statistics, Regression, Classification and Fundraising KPIs
+- Reach me at [linkedin](https://www.linkedin.com/in/bikpo/)
 
 
 ## **Language and Tools**
