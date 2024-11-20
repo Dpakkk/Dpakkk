@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Dpakkk&color=green)
 
-- Marketing Data Analyst
+- Data Analyst
 - Programming: SQL, Python and R, Java Script
 - Additional Tools: Power BI, AWS, Looker, Figma, Premier Pro
 - Ask me about Statistics, Regression, Classification and Fundraising KPIs
