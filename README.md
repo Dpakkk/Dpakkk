@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Dpakkk&color=green)
 
-- Data Analyst
+- Data Scientist
 - Programming: SQL, Python, R, and JS frameworks
 - Additional Tools: Power BI, AWS, Looker, Figma, Premier Pro
 - Ask me about Statistics, Regression, Classification and Fundraising KPIs
