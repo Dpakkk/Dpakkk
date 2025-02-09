@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=Dpakkk&color=green)
-
 - Data Scientist
 - Programming: SQL, Python, R, and JS frameworks
 - Additional Tools: Power BI, AWS, Looker, Figma, Premier Pro
