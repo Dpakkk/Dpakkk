@@ -12,6 +12,6 @@ I build fast and care about what ships, not just what compiles.
 - **[agents](https://github.com/wshobson/agents)** — #2 contributor to a 30K ⭐ collection of production-ready Claude subagents
 - **HiOps** — document intelligence project using computer vision & multimodal AI
 
-## Links
+## Contact
 
-[LinkedIn](https://linkedin.com/in/bikpo) 
+[LinkedIn](https://linkedin.com/in/bikpo) or you can reach me at pokharelbikash981@gmail.com
