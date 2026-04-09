@@ -1,4 +1,4 @@
-# Hey, I'm Bikash
+# Hi, I'm Bikash 👋🏼
 
 Founding Engineer at [Olympian Motors](https://github.com/Olympian-Motors) — building software for EV skateboard platforms. 
 
