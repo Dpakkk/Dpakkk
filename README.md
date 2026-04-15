@@ -6,7 +6,7 @@ The First Hire & founding Engineer at YC Backed [Olympian Motors](https://github
 
 I build fast and care about what ships, not just what compiles.
 
-## Things I've built on Weekend (becaue of course I love building):
+## Things I've built on Weekend (because of course I love building):
 
 - **[Imgour](https://replicate.com/dpakkk/image-object-removal)** — AI image object removal · 50K+ API requests across Replicate, HuggingFace & Figma
 - **[agents](https://github.com/wshobson/agents)** — #2 contributor to a 30K ⭐ collection of production-ready Claude subagents
